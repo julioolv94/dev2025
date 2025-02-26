@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "dev2025",
+  "version": "1.0.0",
+  "description": "docker# dev2025 Copia do tabnews.com.br (aprendendo dev)",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT"
+}
